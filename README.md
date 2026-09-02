@@ -1,4 +1,4 @@
-# OpenDecks
+# The Public Domain Deck
 
 ![image_alt](https://github.com/AustinGabriel/OpenDecks-Public-Domain-and-CC0-Playing-Cards/blob/efc4bda96655604e72230c754f07631e8a20515c/PREVIEW.png)
 
