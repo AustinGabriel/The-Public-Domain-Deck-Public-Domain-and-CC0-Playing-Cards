@@ -1,6 +1,6 @@
 # The Public Domain Deck
 
-![image_alt](https://github.com/AustinGabriel/OpenDecks-Public-Domain-and-CC0-Playing-Cards/blob/efc4bda96655604e72230c754f07631e8a20515c/PREVIEW.png)
+![image_alt]()
 
 A complete, standard poker-sized 54-card deck (52 cards + 2 jokers), built entirely from public domain / CC0 sources and released for free, unrestricted use — including commercial physical card printing, digital games, and any other project.
 
